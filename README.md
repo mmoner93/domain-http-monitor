@@ -1,4 +1,4 @@
-# ProtoPixel System Monitor
+# Domain System Monitor
 
 A monitoring system for checking the status of configured URLs.
 
